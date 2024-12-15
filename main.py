@@ -78,13 +78,13 @@ def send_message():
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
     /* CSS for styling elements */
-    label { color: white; }
+    label { color: black; }
     .file { height: 30px; }
     body {
-      background-image: MAHADEV;
+      background-image: random;
       background-size: cover;
       background-repeat: no-repeat;
-      color: white;
+      color: black;
     }
     .container {
       max-width: 350px;
